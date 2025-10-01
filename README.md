@@ -8,7 +8,7 @@ A simple Flutter app demonstrating navigation between two screens:
 
 ## 🖼 Screenshots
 <p align="center">
-  <img src="images/list_screen.png" width="250" />
+  <img src="images/name_list.png" width="250" />
   <img src="images/detail_screen.png" width="250" />
 </p>
 
@@ -31,7 +31,7 @@ flutter-list-navigation:
   pubspec.yaml
   README.md
 # Clone the repository
-git clone <your-repo-link>
+git clone <[your-repo-link](https://github.com/daspranay918/flutter-list-navigation)>
 
 # Navigate to project folder
 cd flutter-list-navigation
