@@ -8,8 +8,8 @@ A simple Flutter app demonstrating navigation between two screens:
 
 ## 🖼 Screenshots
 <p align="center">
-  <img src="images/name_list.jpg" width="250" />
-  <img src="images/detail_screen.jpg" width="250" />
+  <img src="image/name_list.jpg" width="250" />
+  <img src="image/detail_screen.jpg" width="250" />
 </p>
 
 ---
