@@ -1,16 +1,38 @@
-# flutter_list_navigation
+# Flutter List Navigation App
 
-A new Flutter project.
+A simple Flutter app demonstrating navigation between two screens:  
+- Screen 1: Lists names using `ListView`.  
+- Screen 2: Shows tapped name with an icon.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Folder Structure
 
-A few resources to get you started if this is your first Flutter project:
+```yaml
+flutter-list-navigation:
+  lib:
+    data:
+      - mock_data.dart
+    screens:
+      - list_screen.dart
+      - detail_screen.dart
+    main.dart
+  images:
+    - list_screen.png
+    - detail_screen.png
+  pubspec.yaml
+  README.md
+To run, follow these instructions:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Clone the repository
+git clone <your-repo-link>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Navigate to project folder
+cd flutter-list-navigation
+
+# Install Flutter dependencies
+flutter pub get
+
+# Run the app on default device/emulator
+flutter run
+
