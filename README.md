@@ -5,6 +5,12 @@ A simple Flutter app demonstrating navigation between two screens:
 - Screen 2: Shows tapped name with an icon.  
 
 ---
+## 🖼 Screenshots
+<p align="center">
+<img src="images/name_list.jpg" width="250" />
+<img src="images/detail_screen.jpg" width="250" />
+</p>
+--
 
 ## Folder Structure
 
