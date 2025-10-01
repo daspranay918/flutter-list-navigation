@@ -3,7 +3,6 @@
 A simple Flutter app demonstrating navigation between two screens:  
 - Screen 1: Lists names using `ListView`.  
 - Screen 2: Shows tapped name with an icon.  
-
 ---
 ## 🖼 Screenshots
 <p align="center">
