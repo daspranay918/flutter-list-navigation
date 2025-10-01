@@ -22,9 +22,6 @@ flutter-list-navigation:
       - list_screen.dart
       - detail_screen.dart
     main.dart
-  images:
-    - list_screen.png
-    - detail_screen.png
   pubspec.yaml
   README.md
 To run, follow these instructions:
