@@ -25,7 +25,7 @@ flutter-list-navigation:
 To run, follow these instructions:
 
 # Clone the repository
-git clone <your-repo-link>
+git clone <[your-repo-link](https://github.com/daspranay918/flutter-list-navigation)>
 
 # Navigate to project folder
 cd flutter-list-navigation
